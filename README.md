@@ -2,7 +2,7 @@
 
 This is a solution to the **FDE Technical Screen** challenge for Thoughtful.
 
-![Challenge](https://thoughtfulautomation.notion.site/FDE-Technical-Screen-12af43a78fa480af8d97c2fc9478cb18)
+[Challenge](https://thoughtfulautomation.notion.site/FDE-Technical-Screen-12af43a78fa480af8d97c2fc9478cb18)
 
 ## 🚀 Objective
 
