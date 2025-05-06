@@ -13,3 +13,15 @@ requiredFiles = [".replit", "replit.nix"]
 [deployment]
 run = ["python3", "main.py"]
 deploymentTarget = "cloudrun"
+
+[workflows]
+runButton = "Tests"
+
+[[workflows.workflow]]
+name = "Tests"
+mode = "sequential"
+author = 42359516
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "python3 -m unittest test_sort.py -v"
